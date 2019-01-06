@@ -19,7 +19,7 @@
     "typescript": "^3.2.2"
   },
   "dependencies": {
-    "@redux-ts-starter-kit/core": "0.1.9",
+    "@redux-ts-starter-kit/core": "0.1.11",
     "classnames": "^2.2.5",
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
